@@ -35,5 +35,5 @@
  <br><br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohanBheel&show_icons=true&locale=en&layout=compact" alt="SohanBheel" /></p><br/>
  <br>    
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SohanBheel&" alt="SohanBheel" /></p>
+<p><img align="left" src=https://github-readme-streak-stats.herokuapp.com/?user=SohanBheel&" alt="SohanBheel" /></p>
 
