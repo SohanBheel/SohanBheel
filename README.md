@@ -1,5 +1,5 @@
 ![MasterHead](https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47cxatws0o6ap28qplxwlnu2j4zg1fdbcxmyc9go9f&rid=giphy.gif&ct=g)
-<h1 align="center">Hi 👋, I'm SohanBheel</h1>
+<h1 align="center">Hi 👋, I'm Sohan</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47zifdvlxuu402n6rj6s6cv3u5rz8fkcq30foffw00&rid=giphy.gif&ct=g">
 
